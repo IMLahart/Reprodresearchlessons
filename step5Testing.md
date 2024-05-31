@@ -227,6 +227,7 @@ A good time for suggestions on where to learn R and Python. You've probably alre
 
 <!-- Got any organisation information on where to learn R or Python? Does your institute run carpentries training or data science help? Include it below. -->
 
+Useful webpage at https://www.griffith.edu.au/eresearch-services/hacky-hour
 
 If you are using a random number generator, take note of the seed number.
 
